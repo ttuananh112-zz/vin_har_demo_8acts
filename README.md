@@ -1,7 +1,7 @@
 # vin_har_demo_8acts
 
 1.	Device: 
--	Sensor wearables was designed by Vantix.
+-	Sensor wearables are designed by Vantix.
 -	Location of tracking: subject’s dominant wrist.
 
 2.	Dataset:
